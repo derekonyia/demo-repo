@@ -1,3 +1,8 @@
 import os
 
-os.listdir()
+os.chdir()
+
+cars = ['tesla', 'toyota']
+for car in cars:
+    print(car)
+
